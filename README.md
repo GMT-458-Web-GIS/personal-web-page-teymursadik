@@ -69,7 +69,7 @@ Examples include confirming correct CSS property usage or fixing missing HTML ta
 The project is hosted using *GitHub Pages*, providing free and direct online access.
 
 - *GitHub Repository:* https://github.com/GMT-458-Web-GIS/personal-web-page-teymursadik.git
-- *Live Website:* 
+- *Live Website:* https://teymursadik.github.io/personal-web-page-teymursadik
 
 ---
 
